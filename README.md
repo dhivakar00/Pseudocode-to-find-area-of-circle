@@ -1,1 +1,0 @@
-# Pseudocode-to-find-area-of-circle

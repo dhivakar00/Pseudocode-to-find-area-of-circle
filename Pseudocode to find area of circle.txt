@@ -1,0 +1,7 @@
+# Pseudocode-to-find-area-of-circle
+BEGIN 
+     GET the value of the radius from         the user
+     ASSIGN π=3.14
+     COMPUTE area = π*r**2
+     DISPLAY area
+END
